@@ -1,0 +1,52 @@
+[
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\MultiplayerSessions.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Public\\MultiplayerSessions.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MultiplayerSessions.46.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Source\\MenuSystem\\MenuSystem.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.214.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Source\\MenuSystem\\MenuSystem.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.214.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Source\\MenuSystem\\MenuSystem.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.214.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Source\\MenuSystem\\MenuSystemCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.214.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Source\\MenuSystem\\MenuSystemCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.214.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Source\\MenuSystem\\MenuSystemGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.214.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\Source\\MenuSystem\\MenuSystemGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\MPCourse\\MenuSystem\\.vscode\\compileCommands_MenuSystem\\MenuSystem.214.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
