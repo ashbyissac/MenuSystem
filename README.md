@@ -6,4 +6,4 @@ The multiplayer plugin can handle various network functionalities such as :-
 1. Creating Sessions 
 2. Finding and joining sessions
 3. Starting and Destorying sessions
-4. An simple interface for customization (In Progress)
+4. An simple interface for customization (For interaction with the Session functions - In Progress)
